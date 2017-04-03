@@ -1,0 +1,74 @@
+.titulos{
+  font-weight: bold;
+  font-style: normal;
+
+}
+#titulo1{
+  color:#99DCA3;
+  font-size: 23px;
+}
+.pclave1{
+  color: red;
+  font-weight: bold;
+}
+.pclave2{
+  color:#F5FF47;
+  }
+#titulo2{
+  color:blue;
+  font-size: 20px;
+}
+.pclave3{
+  color:red;
+  text-decoration: underline;
+}
+.pclave4{
+  color:blue;
+  font-style: italic;
+}
+.pclave5{
+  color: #92109F;
+  font-style: italic;
+}
+.pclave6{
+  color: #F951BC;
+  font-style: italic;
+}
+.pclave7{
+  color:#36ED50;
+  text-decoration: underline;
+}
+.pclave8{
+font-style: italic;
+}
+.pclave9{
+  font-size: 19px;
+  color:#dede22;
+}
+.tituloTabla{
+  color:blue;
+}
+.titulosSup{
+  font-weight: bold;
+  font-style: normal;
+  color:#F9F95A;
+}
+.titulosInf{
+  font-weight: bold;
+  font-style: normal;
+  color:red;
+}
+.textoTabla{
+  color:green;
+}
+table{
+  border-collapse:separate 1px black;
+  border:black 2px solid;
+
+}
+td,tr{
+  border:blue 1px solid;
+}
+.parrafo2{
+  color:#006400;
+}
